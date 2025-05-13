@@ -1,0 +1,12 @@
+wacp to print 10 numbers in an array
+
+wacp to find the summation of all array elements
+
+wacp to find out the max and min in an array
+
+wacp to perform the linear search in an array
+
+wacp to perform the selection sort technique
+
+wacp to perform the bubble sort technique
+
